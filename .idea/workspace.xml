@@ -9,13 +9,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test$baidu_demo_web.coverage" NAME="baidu_demo_web Coverage Results" MODIFIED="1588923126002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyTestAutomation/script/web" />
     <SUITE FILE_PATH="coverage/test$stest.coverage" NAME="stest Coverage Results" MODIFIED="1588585985547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$test_demo_web.coverage" NAME="test_demo_web Coverage Results" MODIFIED="1588929406986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../pyTestAutomation/script/web" />
     <SUITE FILE_PATH="coverage/test$aa.coverage" NAME="aa Coverage Results" MODIFIED="1588585998056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1227868159">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="2" />
@@ -23,26 +26,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="25" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="4" />
-          <entry key="py" value="708" />
+          <entry key="dummy" value="16" />
+          <entry key="py" value="1515" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="708" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="1515" />
         </counts>
       </usages-collector>
     </session>
@@ -50,70 +53,80 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/appcommon.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/setup.py">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/web/web_setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1588753680640" expanded="true" signature="77:403" ph="..." />
+                <element signature="e#26#56#0" expanded="true" />
+                <marker date="1588922990180" expanded="true" signature="421:422" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/apicommon.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding>
-                <marker date="1588754689419" expanded="true" signature="60:61" ph="..." />
-                <marker date="1588754689419" expanded="true" signature="60:121" ph="..." />
-                <marker date="1588754689419" expanded="true" signature="90:99" ph="..." />
-                <marker date="1588754689419" expanded="true" signature="158:167" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/api/amap_demo.py">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/app/setup.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/app/phone_contact_demo.py">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/api/setup.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/h5/baidu_demo_h5.py">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/h5/setup.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/web/baidu_demo_web.py">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/web/webcommon.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/bizcommon/bizcommon_demo.py">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/web/web_teardown.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/requirement.txt">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/web/test_demo_web.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <folding>
+                <marker date="1588929406872" expanded="true" signature="516:517" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/__init__.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/utils.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/base/seleniumAction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#27#38#0" expanded="true" />
+                <marker date="1588750267870" expanded="true" signature="224:229" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/web/web_setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -128,6 +141,7 @@
   <component name="FindInProjectRecents">
     <dirStrings>
       <dir>C:\Users\Administrator\PycharmProjects\pyTestAutomation</dir>
+      <dir>C:\Users\Administrator\PycharmProjects\pyTestAutomation\script\web</dir>
     </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -147,8 +161,14 @@
         <option value="$PROJECT_DIR$/../pyTestAutomation/script/api/amap_demo.py" />
         <option value="$PROJECT_DIR$/../pyTestAutomation/script/app/phone_contact_demo.py" />
         <option value="$PROJECT_DIR$/../pyTestAutomation/script/h5/baidu_demo.py" />
-        <option value="$PROJECT_DIR$/../pyTestAutomation/script/web/baidu_demo_web.py" />
         <option value="$PROJECT_DIR$/../pyTestAutomation/bizcommon/bizcommon_demo.py" />
+        <option value="$PROJECT_DIR$/../pyTestAutomation/framework/web/setup.py" />
+        <option value="$PROJECT_DIR$/../pyTestAutomation/framework/web/web_setup.py" />
+        <option value="$PROJECT_DIR$/../pyTestAutomation/script/web/baidu_demo_web.py" />
+        <option value="$PROJECT_DIR$/../pyTestAutomation/script/web/web_setup.py" />
+        <option value="$PROJECT_DIR$/../pyTestAutomation/framework/base/seleniumAction.py" />
+        <option value="$PROJECT_DIR$/../pyTestAutomation/framework/web/__init__.py" />
+        <option value="$PROJECT_DIR$/../pyTestAutomation/script/web/test_demo_web.py" />
       </list>
     </option>
   </component>
@@ -159,8 +179,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="375" />
-    <option name="y" value="49" />
+    <option name="x" value="537" />
+    <option name="y" value="91" />
     <option name="width" value="1210" />
     <option name="height" value="856" />
   </component>
@@ -192,6 +212,17 @@
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyTestAutomation" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyTestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyTestAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -200,18 +231,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Python/Python3/Scripts/py.test.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\PycharmProjects\test\framework" />
-      <recent name="C:\Users\Administrator\PycharmProjects\test\framework\base" />
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\framework" />
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\framework\driver" />
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\framework\base" />
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\framework\utils" />
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\framework\h5" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\script\web" />
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\framework\driver" />
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\framework" />
+      <recent name="C:\Users\Administrator\PycharmProjects\pyTestAutomation\framework\web" />
       <recent name="C:\Users\Administrator\PycharmProjects\test\framework\base" />
-      <recent name="C:\Users\Administrator\PycharmProjects\test\framework\web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -226,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aa">
+  <component name="RunManager" selected="Python.test_demo_web">
     <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,6 +279,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidu_demo_web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyTestAutomation/script/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\pyTestAutomation\script\web\test_demo_web.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,12 +331,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_demo_web" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyTestAutomation/script/web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyTestAutomation/script/web/test_demo_web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.stest" />
       <item itemvalue="Python.aa" />
+      <item itemvalue="Python.baidu_demo_web" />
+      <item itemvalue="Python.test_demo_web" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_demo_web" />
+        <item itemvalue="Python.baidu_demo_web" />
         <item itemvalue="Python.aa" />
         <item itemvalue="Python.stest" />
       </list>
@@ -296,15 +382,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="375" y="49" width="1210" height="856" extended-state="0" />
+    <frame x="537" y="91" width="1210" height="856" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25391304" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25391304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32918397" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32918397" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972338" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -342,43 +429,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/seleniumAction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="e#27#38#0" expanded="true" />
-            <marker date="1588750267870" expanded="true" signature="224:229" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/teardown.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/webcommon.py">
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/h5/h5common.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/h5common.py">
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/utils/utils.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/utils.py">
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/app/appcommon.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/appcommon.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="36" />
-          <folding>
-            <marker date="1588753680640" expanded="true" signature="77:403" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/apicommon.py">
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/api/apicommon.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
@@ -400,14 +463,75 @@
     <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/h5/baidu_demo_h5.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/web/baidu_demo_web.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../pyTestAutomation/bizcommon/bizcommon_demo.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../pyTestAutomation/requirement.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/api/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/h5/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/web/webcommon.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/web/web_setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/web/web_teardown.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/app/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/base/seleniumAction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#27#38#0" expanded="true" />
+            <marker date="1588750267870" expanded="true" signature="224:229" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/web/web_setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#26#56#0" expanded="true" />
+            <marker date="1588922990180" expanded="true" signature="421:422" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/framework/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyTestAutomation/script/web/test_demo_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <marker date="1588929406872" expanded="true" signature="516:517" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
