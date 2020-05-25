@@ -45,7 +45,7 @@
 
 **测试报告(allure_report.png)**
 
-脚本执行后，通过IReporterListener监听生成extent report，/test-output/ExtentHtml.html
+脚本执行后，通过allure生成测试报告
 ![](https://github.com/jinwu18/web-app-h5-api-pyTestAutomation/blob/master/allure_report.png)
 
 **项目部署见csdn**
