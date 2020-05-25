@@ -45,5 +45,3 @@
 
 ![](https://github.com/jinwu18/web-app-h5-api-pyTestAutomation/blob/master/allure_report.png)
 
-**项目部署见csdn**
-https://blog.csdn.net/jinwu18/article/details/106011098
