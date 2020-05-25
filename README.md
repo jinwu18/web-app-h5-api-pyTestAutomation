@@ -41,9 +41,7 @@
 ├─script 业务、功能脚本
 
 
-**测试报告(allure_report.png)**
-
-脚本执行后，通过allure生成测试报告
+**脚本执行后，通过allure生成测试报告(allure_report.png)**
 
 ![](https://github.com/jinwu18/web-app-h5-api-pyTestAutomation/blob/master/allure_report.png)
 
