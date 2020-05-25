@@ -1,0 +1,4 @@
+[32mINFO    [0m root:selenium_action.py:179 文本框传值'吕岩'
+[32mINFO    [0m root:selenium_action.py:179 文本框传值'18334485634'
+[32mINFO    [0m root:selenium_action.py:103 点击''
+[32mINFO    [0m root:appcommon.py:23 找不到"联系人已保存"

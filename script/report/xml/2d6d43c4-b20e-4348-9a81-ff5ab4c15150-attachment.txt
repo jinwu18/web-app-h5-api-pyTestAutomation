@@ -1,0 +1,2 @@
+[32mINFO    [0m root:selenium_action.py:179 文本框传值'selenium'
+[32mINFO    [0m root:selenium_action.py:174 点击回车按钮
