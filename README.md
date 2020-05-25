@@ -34,7 +34,6 @@
 
 │  ├─app - app脚本执行基础类
 
-
 ├─utils 测试工具类（文件处理等）
 
 ├─page 测试页面对象类
@@ -42,10 +41,10 @@
 ├─script 业务、功能脚本
 
 
-
 **测试报告(allure_report.png)**
 
 脚本执行后，通过allure生成测试报告
+
 ![](https://github.com/jinwu18/web-app-h5-api-pyTestAutomation/blob/master/allure_report.png)
 
 **项目部署见csdn**
