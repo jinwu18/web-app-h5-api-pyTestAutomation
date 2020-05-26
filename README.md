@@ -18,7 +18,7 @@
 
 - pytest：测试用例管理
 
-- ExtentReport：测试报告
+- allure：测试报告
 
 **代码结构** 
 
