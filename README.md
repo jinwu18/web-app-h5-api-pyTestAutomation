@@ -6,7 +6,7 @@
 
 - 通过pytest对测试脚本进行管理，allure report 实现报告输出
 
-- 通过maven实现脚本CI（jerkins），tomcat实现测试报告线上化
+- 通过jenkins实现脚本CI，tomcat实现测试报告线上化
 
 - 使用python作为脚本语言
 
@@ -16,9 +16,7 @@
 
 **说明** 
 
-- TestNG：测试用例管理
-
-- Maven：jar包管理
+- pytest：测试用例管理
 
 - ExtentReport：测试报告
 
